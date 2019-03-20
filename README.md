@@ -8,7 +8,7 @@ Puedes solicitar una charla (en diferentes formatos): [propuestas](propuestas)
 
 # Repository for talks and proposals for the devroom Big Data and Machine Leaning
 
-La devroom will take plance on 21st June in Granada (Spain): https://eslib.re/2019/
+The devroom will take place on 21st June in Granada (Spain): https://eslib.re/2019/
 
 This call is open to everyone and it will done with pull requests against this repository so everybody can track what is approved, rejected and to comment about it.
 
