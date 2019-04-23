@@ -18,3 +18,4 @@ repo con un fichero donde se incluya la charla.
 aparecerá cuando se acepte**
 
 * [Título de la charla](plantilla.md), por *autor/a/es*.
+* [Taller práctico de Big Data](taller_bigdata.md), por *Alvaro del Castillo*.
