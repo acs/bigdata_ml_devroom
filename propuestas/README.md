@@ -17,5 +17,6 @@ repo con un fichero donde se incluya la charla.
 **Añade un enlace al fichero en el que hayas enviado tu charla aquí, y
 aparecerá cuando se acepte**
 
-* [Título de la charla](plantilla.md), por *autor/a/es*.
 * [Nos pasamos el juego: tutorial de *reinforcement learning*](taller_rl.md), por *[Israel Herraiz](http://github.com/iht)*.
+* [Taller práctico de Big Data](taller_bigdata.md), por *Alvaro del Castillo*.
+
