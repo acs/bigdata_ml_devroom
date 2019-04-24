@@ -19,4 +19,5 @@ aparecerá cuando se acepte**
 
 * [Nos pasamos el juego: tutorial de *reinforcement learning*](taller_rl.md), por *[Israel Herraiz](http://github.com/iht)*.
 * [Taller práctico de Big Data](taller_bigdata.md), por *Alvaro del Castillo*.
+* [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por *Juan Tomás García*.
 
