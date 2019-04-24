@@ -18,6 +18,6 @@ repo con un fichero donde se incluya la charla.
 aparecerá cuando se acepte**
 
 * [Nos pasamos el juego: tutorial de *reinforcement learning*](taller_rl.md), por *[Israel Herraiz](http://github.com/iht)*.
-* [Taller práctico de Big Data](taller_bigdata.md), por *Alvaro del Castillo*.
+* [Taller práctico de Big Data](taller_bigdata.md), por *[Alvaro del Castillo]((http://github.com/acs))*.
 * [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por *Juan Tomás García*.
 
